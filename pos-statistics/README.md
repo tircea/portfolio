@@ -49,7 +49,3 @@ python stats_calc.py
 - Статистичні характеристики для кожної частини мови (noun, verb, adjf, numr, тощо)
 - Побудовані смуги коливання (95% CI) з порівнянням між вибірками
 - Лінгвостатистична інтерпретація відмінностей
-
-## Посилання
-
-GitHub-репозиторій: [https://github.com/tircea/portfolio/tree/main/pos-statistics](https://github.com/tircea/portfolio/tree/main/pos-statistics)
