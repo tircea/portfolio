@@ -82,6 +82,7 @@ for table_name in tables_to_process:
    plt.xlabel('Xi')
    plt.yticks([])
    plt.xlim(lower_bound_95 - variation_measure, upper_bound_95 + variation_measure)
-
+   
+plt.show()
 conn.close()
 conn2.close()
