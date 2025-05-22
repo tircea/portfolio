@@ -43,7 +43,7 @@ def combobox_selected(event):
     label_result.config(text=f"Обране слово: {selected_word}")
 
 window = tk.Tk()
-window.title("Сірко Владислава, 1 група, ЛР №2")
+window.title("Інтерактивна взаємодія з базою польських словоформ")
 window.geometry('800x500')  
 
 #Label
